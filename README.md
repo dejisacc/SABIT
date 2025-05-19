@@ -1,1 +1,1 @@
-# latihan soal dari pelatihan sabit community
+# latihan soal dari pelatihan sabit community.
