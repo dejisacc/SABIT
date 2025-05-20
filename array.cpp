@@ -15,9 +15,9 @@ int main(){
     }
 
     if (sama){
-        cout << "elements aren't same numbers";
+        cout << "elemen-elemennya tdk sama";
     }else{
-        cout << "elements are same numbers";
+        cout << "elemen-elemennya sama";
     }
 
     return 0;
